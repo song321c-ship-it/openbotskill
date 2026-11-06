@@ -9,6 +9,16 @@
 | 技能 | 給誰用 | 做什麼 |
 |---|---|---|
 | [econ-calendar](skills/econ-calendar/SKILL.md) | 投資研究室：國際市場情報分析員 | 用不需要登入的財經日曆（Forex Factory 資料檔、Investing.com 香港版）加上官方公布頁，寫美國數據快評、國際早報、一週預告；精準快評自動對時；哨兵來源維護 |
+| [tw-official-sources](skills/tw-official-sources/SKILL.md) | 所有情報分析員、法規追蹤 | 台灣官方資料來源清單與查法（主計總處、內政部、勞動部、衛福部、教育部、考選部、財政部、全國法規資料庫等）與引用規則 |
+| [tw-pension-calc](skills/tw-pension-calc/SKILL.md) | 退休規劃、個人理財、人資 | 勞保老年給付兩式擇優、勞退個人專戶、國民年金的公式、查法與試算步驟 |
+| [tw-ltc](skills/tw-ltc/SKILL.md) | 長照支援、退休規劃 | 長照 2.0 申請流程、四類給付、部分負擔、外籍看護與住宿式機構補助的查法 |
+| [tw-tax-invoice](skills/tw-tax-invoice/SKILL.md) | 個人理財、門市、餐飲、民宿、補教、NPO | 營業稅、統一發票與電子發票、綜所稅、扣繳、二代健保補充保費、房屋稅與地價稅 |
+| [tw-rental-law](skills/tw-rental-law/SKILL.md) | 租屋生活、法務合規 | 租賃條例、定型化契約應記載及不得記載事項、押金與退租扣款判斷、租金補貼與糾紛管道 |
+| [tw-condo-law](skills/tw-condo-law/SKILL.md) | 社區管委會 | 公寓大廈管理條例、區分所有權人會議召集與決議門檻、管理費催收、修繕招標 |
+| [tw-privacy-ad-law](skills/tw-privacy-ad-law/SKILL.md) | 法務、診所、行銷、客服 | 個資法、醫療廣告、食品與化粧品廣告、公平法不實廣告，附廣告稿逐句檢查法 |
+| [tw-school-admission](skills/tw-school-admission/SKILL.md) | 升大學輔導、國中升學 | 國中會考與免試入學超額比序、大學多元入學（學測、分科、繁星、申請）、四技二專 |
+| [tw-labor-law](skills/tw-labor-law/SKILL.md) | 人資、法務、餐飲、門市、診所、補教 | 勞基法工時、加班費、特休、資遣，就服法、性平法、勞健保、職安法，附試算與排班檢核 |
+| [tw-exam-license](skills/tw-exam-license/SKILL.md) | 國考證照 | 考選部類科、應考資格、命題大綱、歷屆試題，技能檢定與常見證照查法 |
 
 ## 原則
 
