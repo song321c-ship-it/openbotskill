@@ -23,6 +23,7 @@
 | [holdings-tracker](skills/holdings-tracker/SKILL.md) | 投資研究室：持倉追蹤員 | 從 SEC EDGAR 抓大師基金 13F（波克夏、喜馬拉雅、H&H、Pershing Square、Dalal Street 等，附 CIK），從投信官網抓台灣熱門前 20 大 ETF 成分股；比對新進、出清、加減碼與換股，算重疊持股的家數與權重 |
 | [stock-watch](skills/stock-watch/SKILL.md) | 投資研究室：個股哨兵、投資情報分析員 | 公司名或代號對應台美股代號與 CIK；巡台股重大訊息、美股 SEC 8-K／6-K 與新聞 RSS；個股快評的利多／利空／中性、重要性星等與信心度 |
 | [company-analysis](skills/company-analysis/SKILL.md) | 投資研究室：個股分析師 | 台股與美股個股深度研究：產業、營收結構、競爭者、護城河、同業中位數比較、近 5～10 年趨勢、估值、風險；附官方來源與公式，不給評等與目標價 |
+| [tw-tender-watch](skills/tw-tender-watch/SKILL.md) | 標案作戰室：標案哨兵、招標文件分析師 | 政府電子採購網當日招標與更正公告的查詢網址（不需登入、無驗證碼）、用 OpenBot 共用資料庫記已讀、新案初篩的符合度星等與截標提醒 |
 
 ## 原則
 
