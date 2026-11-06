@@ -19,6 +19,7 @@
 | [tw-school-admission](skills/tw-school-admission/SKILL.md) | 升大學輔導、國中升學 | 國中會考與免試入學超額比序、大學多元入學（學測、分科、繁星、申請）、四技二專 |
 | [tw-labor-law](skills/tw-labor-law/SKILL.md) | 人資、法務、餐飲、門市、診所、補教 | 勞基法工時、加班費、特休、資遣，就服法、性平法、勞健保、職安法，附試算與排班檢核 |
 | [tw-exam-license](skills/tw-exam-license/SKILL.md) | 國考證照 | 考選部類科、應考資格、命題大綱、歷屆試題，技能檢定與常見證照查法 |
+| [investing-masters](skills/investing-masters/SKILL.md) | 投資研究室：大師觀點審查員 | 十二位投資大師（巴菲特、芒格、葛拉漢、林區、費雪、葛林布萊特、柏格、達利歐、霍華·馬克斯、坦伯頓、吉姆·羅傑斯、哈利·布朗）的檢查清單，審查個股、ETF、債券、商品與資產配置；只做比對、不給買賣訊號、不寫語錄 |
 
 ## 原則
 
