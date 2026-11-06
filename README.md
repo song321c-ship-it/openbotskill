@@ -21,6 +21,8 @@
 | [tw-exam-license](skills/tw-exam-license/SKILL.md) | 國考證照 | 考選部類科、應考資格、命題大綱、歷屆試題，技能檢定與常見證照查法 |
 | [investing-masters](skills/investing-masters/SKILL.md) | 投資研究室：大師觀點審查員 | 十二位投資大師（巴菲特、芒格、葛拉漢、林區、費雪、葛林布萊特、柏格、達利歐、霍華·馬克斯、坦伯頓、吉姆·羅傑斯、哈利·布朗）的檢查清單，審查個股、ETF、債券、商品與資產配置；只做比對、不給買賣訊號、不寫語錄 |
 | [holdings-tracker](skills/holdings-tracker/SKILL.md) | 投資研究室：持倉追蹤員 | 從 SEC EDGAR 抓大師基金 13F（波克夏、喜馬拉雅、H&H、Pershing Square、Dalal Street 等，附 CIK），從投信官網抓台灣熱門前 20 大 ETF 成分股；比對新進、出清、加減碼與換股，算重疊持股的家數與權重 |
+| [stock-watch](skills/stock-watch/SKILL.md) | 投資研究室：個股哨兵、投資情報分析員 | 公司名或代號對應台美股代號與 CIK；巡台股重大訊息、美股 SEC 8-K／6-K 與新聞 RSS；個股快評的利多／利空／中性、重要性星等與信心度 |
+| [company-analysis](skills/company-analysis/SKILL.md) | 投資研究室：個股分析師 | 台股與美股個股深度研究：產業、營收結構、競爭者、護城河、同業中位數比較、近 5～10 年趨勢、估值、風險；附官方來源與公式，不給評等與目標價 |
 
 ## 原則
 
