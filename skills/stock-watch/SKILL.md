@@ -96,6 +96,8 @@ CREATE TABLE stock_inbox (
 )
 ```
 
+**時間一律台灣時間（UTC+8）**：系統或工具回傳的時間如果是 UTC（結尾 Z 或 +00:00），要加 8 小時再寫入 `found_at`、`published` 與心跳；日期也可能因此跨到隔天。
+
 每次巡邏：
 1. 每家公司、每個來源取項目（新聞每個來源最多取 **10 則、24 小時內**；公告與申報取最近 10 則）
 2. `SELECT id FROM stock_inbox WHERE id IN (?, ?, …)` 找出已經記過的
