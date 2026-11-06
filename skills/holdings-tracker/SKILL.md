@@ -53,6 +53,7 @@ SEC 要求程式抓取時帶 User-Agent，格式是「名稱 聯絡信箱」。�
 
 - 美股用 OpenFIGI 對照服務（不用帳號）：`POST https://api.openfigi.com/v3/mapping`，內容是 JSON 陣列，每筆 `{"idType":"ID_CUSIP","idValue":"037833100"}`；回傳的 `data` 裡取 `exchCode` 為 `US` 那一筆的 `ticker`（ADR 也一樣，例如台積電 ADR 是 TSM）
 - 沒有 API key 時每次最多送 10 筆、每分鐘約 25 次；被限流（HTTP 429）就等一分鐘再送
+- 外國註冊發行人的代碼第一碼是英文字母（例如 Seagate G7997R103、Transocean H8817H100），這是 CINS 碼，要用 `"idType":"ID_CINS"` 查；用 ID_CUSIP 會回「No identifier found」（持倉追蹤員 2026-11-06 實測時自己發現的）
 - 查過的存進 `持倉/代號對照.csv`（cusip,代號,名稱,查詢日,方式），下次先查這個檔，只送沒查過的 CUSIP
 - **先查報告會用到的**：各家變動清單、重疊持股表、每家前 20 大持股的 CUSIP 優先送，報告寫得出來之後，其餘 CUSIP 再慢慢補
 - **分批、可續跑**：一次 Python 執行最多約 5 分鐘（大約 1,000 筆），每查完 100 筆就寫回代號對照.csv；時間到就停，下次從沒查過的接著查。像 Gotham、橋水這種上千筆的，分兩三次跑完是正常的
