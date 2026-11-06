@@ -70,6 +70,8 @@ CREATE TABLE tender_inbox (
 )
 ```
 
+**時間一律台灣時間（UTC+8）**：系統或工具回傳的時間如果是 UTC（結尾 Z 或 +00:00），要加 8 小時再寫入 `found_at`、`published` 與心跳；日期也可能因此跨到隔天。
+
 每次巡邏：
 1. 把這次查到、而且通過篩選的標案列成候選
 2. `SELECT pk FROM tender_inbox WHERE pk IN (?, ?, …)` 找出已經記過的
