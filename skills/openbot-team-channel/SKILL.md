@@ -31,7 +31,7 @@ description: 團長（主持人）替使用者在自己的團隊裡開新頻道�
    - 使用者訊息裡已經給了名稱，就不用問。
    - 名稱和現有頻道重複時（用 `list_channels` 檢查），請使用者換一個，不覆蓋舊頻道。
 4. **建立頻道**
-   - 先用 `list_channels` 找你目前擔任負責人的團隊主頻道，讀它的 instructions（頻道規則）。
+   - 先用 `list_channels` 找你目前擔任負責人的團隊主頻道，讀它的 instructions（頻道規則）。`list_channels` 讀不到規則全文時，改讀 `~/OpenBot/Shared/提示詞庫/團隊/` 裡同名團隊檔案的 ===頻道規則=== 段（用讀檔工具搜尋頻道名稱），一字不改沿用；兩處都找不到才請使用者貼上規則。
    - `create_channel`：
      - name＝使用者給的名稱
      - title＝使用者給的用途；沒給就沿用主頻道的 title
