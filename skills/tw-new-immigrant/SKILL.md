@@ -27,7 +27,7 @@ description: 依《入出國及移民法》《國籍法》、歸化測試認定�
 | 歸化申辦須知、歸化測試 | 內政部戶政司 https://www.ris.gov.tw/app/portal/190 ；https://www.ris.gov.tw/app/portal/229 （內容由網頁程式載入，請用瀏覽器打開） |
 | 就業與職訓 | 台灣就業通新住民專區 https://job.taiwanjobs.gov.tw/Internet/special2/foreignspouse/index.aspx ；勞動部 114 年 8 月 6 日新聞稿 https://www.mol.gov.tw/1607/1632/1633/81884/post |
 | 未納健保孕婦產檢補助 | 國民健康署 https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=498&pid=19292 |
-| 健保加保實務 | 中央健康保險署官網（自動讀取被擋，**未查證**） |
+| 健保加保實務 | 健保署〈非本國籍人士〉https://www.nhi.gov.tw/ch/cp-4533-93c67-2616-1.html （2026-11-07 用瀏覽器查；自動抓取會被擋，要用瀏覽器開） |
 | 子女教育、新住民語文 | 國教署新住民子女教育資訊網 https://mkm.k12ea.gov.tw/ |
 | 家暴與保護服務 | 113 保護專線介紹 https://dep.mohw.gov.tw/DOPS/np-1183-105.html ；關懷e起來線上求助 https://ecare.mohw.gov.tw/ |
 | 法律扶助 | 法律扶助基金會 https://www.laf.org.tw/ |
@@ -70,7 +70,7 @@ description: 依《入出國及移民法》《國籍法》、歸化測試認定�
 
 **全民健保**
 - 未設籍者領有居留證明文件，且**在臺居留滿 6 個月**、或有一定雇主的受僱者、或在臺出生新生嬰兒，應加保。（健保法第 9 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060001&flno=9 ）
-- 「滿 6 個月」指連續居住 6 個月，或曾出境一次未逾 30 日、扣除出境日數後併計滿 6 個月。（施行細則第 8 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060002&flno=8 ）投保單位與眷屬身分請健保署確認。
+- 「滿 6 個月」指連續居住 6 個月，或曾出境一次未逾 30 日、扣除出境日數後併計滿 6 個月。（施行細則第 8 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=L0060002&flno=8 ）健保署〈非本國籍人士〉頁同樣寫：有一定雇主的受僱者**自受僱之日**起加保；非受僱者自領有居留證明文件、在臺居留滿 6 個月之日起加保；106-12-01 起在臺出生的外籍新生嬰兒領有居留證明文件者自出生日起投保；其他投保問題洽健保署各分區業務組（https://www.nhi.gov.tw/ch/cp-4533-93c67-2616-1.html ）。投保單位與眷屬身分請健保署確認。
 - 未納保的國民配偶孕婦：國健署產檢補助計畫 114 年 8 月 1 日起實施，帶戶口名簿或現戶戶籍謄本正本、居留證正本向所在地衛生所或健康服務中心申請。
 
 **新住民發展基金與新住民基本法**
