@@ -25,6 +25,7 @@
 | [company-analysis](skills/company-analysis/SKILL.md) | 投資研究室：個股分析師 | 台股與美股個股深度研究：產業、營收結構、競爭者、護城河、同業中位數比較、近 5～10 年趨勢、估值、風險；附官方來源與公式，不給評等與目標價 |
 | [tw-tender-watch](skills/tw-tender-watch/SKILL.md) | 標案作戰室：標案哨兵、招標文件分析師 | 政府電子採購網當日招標與更正公告的查詢網址（不需登入、無驗證碼）、用 OpenBot 共用資料庫記已讀、新案初篩的符合度星等與截標提醒 |
 | [openbot-dashboard](skills/openbot-dashboard/SKILL.md) | 儀表板管家 | 把各團隊產出整理成一頁靜態網頁、用 OpenBot 網頁託管早晚更新同一網址；公開範圍與隱私檢查、網頁範本 |
+| [openbot-team-channel](skills/openbot-team-channel/SKILL.md) | 所有團隊的團長（主持人） | 使用者私訊團長說「開新頻道」時，從同一個分組的團員點選成員、取名，沿用團隊頻道規則建立新頻道，並提醒把頻道移進分組 |
 | [tw-inheritance-funeral](skills/tw-inheritance-funeral/SKILL.md) | 身後事與繼承室 | 死亡登記與除戶、殯葬禮俗與契約、勞保國保喪葬與死亡給付、保險理賠、遺產清查、遺產稅申報、拋棄與限定繼承、繼承登記 |
 | [tw-insurance-sales](skills/tw-insurance-sales/SKILL.md) | 保險業務室 | 業務員管理規則、招攬與廣告規範、金融消費者保護法的適合度與說明義務、個資、理賠文件與流程 |
 | [tw-landlord](skills/tw-landlord/SKILL.md) | 房東管理室 | 出租人義務、租約範本、租賃所得申報、房屋稅與地價稅、包租代管、修繕與押金、拒租的法律界線 |
@@ -38,6 +39,7 @@
 | [tw-realestate-broker](skills/tw-realestate-broker/SKILL.md) | 房仲業務室 | 經紀業管理條例、說明書應記載事項、要約書與斡旋金、實價登錄、公平法廣告規範、個資 |
 | [tw-gig-worker](skills/tw-gig-worker/SKILL.md) | 零工接案室 | 外送員權益保障及外送平臺管理法、職業工會加保、職災保險、健保身分、所得類別、補充保費、多元計程車 |
 | [tw-village](skills/tw-village/SKILL.md) | 里長服務處 | 地方制度法、里辦公處與里鄰規定、公文與陳情案件處理、補助管道、活動安全、選舉期間的中立提醒 |
+| [tw-video-creator](skills/tw-video-creator/SKILL.md) | 影音創作室 | YouTube、Shorts、Reels、TikTok 的 AI 與付費宣傳揭露、規格與 YPP 查法、商業音樂庫；公平會薦證廣告規範說明（業配）、著作權合理使用與音樂授權、肖像與個資、食品化粧品醫療酒類廣告用語、兒少保護、AI 深偽 |
 
 ## 原則
 
