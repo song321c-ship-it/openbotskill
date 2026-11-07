@@ -40,6 +40,7 @@
 | [tw-gig-worker](skills/tw-gig-worker/SKILL.md) | 零工接案室 | 外送員權益保障及外送平臺管理法、職業工會加保、職災保險、健保身分、所得類別、補充保費、多元計程車 |
 | [tw-village](skills/tw-village/SKILL.md) | 里長服務處 | 地方制度法、里辦公處與里鄰規定、公文與陳情案件處理、補助管道、活動安全、選舉期間的中立提醒 |
 | [tw-video-creator](skills/tw-video-creator/SKILL.md) | 影音創作室 | YouTube、Shorts、Reels、TikTok 的 AI 與付費宣傳揭露、規格與 YPP 查法、商業音樂庫；公平會薦證廣告規範說明（業配）、著作權合理使用與音樂授權、肖像與個資、食品化粧品醫療酒類廣告用語、兒少保護、AI 深偽 |
+| [tw-personal-life](skills/tw-personal-life/SKILL.md) | 個人生活室 | 成人健檢與慢箋、健保快易通、垃圾車與回收查法、生活稅費時程與繳費管道、165 防詐、氣象署特報、網購七天解除權與訂閱取消 |
 
 ## 原則
 
