@@ -78,6 +78,8 @@ description: 依《監督寺廟條例》、內政部「辦理寺廟登記須知�
 
 **11. 祭典、遶境與公共安全**
 - 宗教、民俗活動免依集會遊行法申請許可（第 8 條第 1 項第 3 款 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0080058&flno=8 ），**但使用道路仍要許可**：未經許可在道路舉行賽會、擺設筵席、演戲或類似行為，處 1,200～2,400 元（道交條例第 82 條第 1 項第 9 款 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=K0040012&flno=82 ）。
+- 申請依據：迎神賽會等須結隊成行通行者，應事先向警察機關申請核准（道路交通安全規則第 137 條第 2 項 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=K0040013&flno=137 ）。
+- 跨越公路臨時設置牌坊，要洽商公路主管機關同意、事畢限期拆除（公路用地使用規則第 21 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=K0040009&flno=21 ）；遶境經過省道時，另查交通部公路局對使用省道的規定原文，查不到標「未查證」。
 - 專業爆竹煙火施放 **5 日前**申請許可（爆竹煙火管理條例第 16 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0120005&flno=16 ）；一般爆竹限制看縣市自治法規（第 17 條）。
 - 管制區內燃放爆竹、神壇廟會在公告時段地點妨害安寧者受限（噪音管制法第 8 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=O0030001&flno=8 ）。
 - 寺廟屬乙類場所（各類場所消防安全設備設置標準第 12 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0120029&flno=12 ）；消防設備定期檢修申報（消防法第 9 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0120001&flno=9 ）；達一定規模遴用防火管理人，次日起 15 日內報備（第 13 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0120001&flno=13 ）；供公眾使用建築物定期公安申報（建築法第 77 條 https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=D0070109&flno=77 ）。
@@ -108,6 +110,8 @@ description: 依《監督寺廟條例》、內政部「辦理寺廟登記須知�
 3. 請區公所召開協調會（警察、交通、環保、消防），主辦單位簽切結書。
 4. 爆竹煙火向消防局申請；原則使用電子音響或環保鞭炮車。
 5. 活動後回復場地原狀並留照片；依章程公告活動收支。
+
+其他縣市範例：臺南市政府輔導廟會遶境活動作業要點（111 年 9 月 12 日 https://law01.tainan.gov.tw/GLRSNEWSOUT/LawContent.aspx?id=GL001636 ）：活動日 **20 日前**向轄區警察分局或市區道路管理機關申請臨時使用道路（跨二轄區以上向市警察局），施放一般爆竹煙火於活動日 **7 日前**報消防局備查。各縣市要點多放在縣市法規查詢系統，打不開時查警察局交通大隊頁。
 
 ### E. 改選與廟產處分
 1. 依章程開會，保存紀錄、簽到簿、名冊 → 向公所辦變動登記。
